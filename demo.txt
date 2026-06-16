@@ -1,0 +1,7 @@
+Hi, I am priti maurya.I am full stack developer with 4+ years of experience to design and developed scalable web application and enterprises level services.
+I have good hands on experience in node.js, express.js, mongodb, react, php, mysql.
+In venera technologies i have work on saas application as well as enterprises editionservices, design multiple rest as well soap api , design and build multiple web application, design microservices like login authentication system and task managementservice and also design email notification service.
+
+on otherside i have design multiple project byself blogify, hotel listing application, zerodha clone, chat application using socket.io.
+
+Now I am looking forward to work on more industrial project and getting work on more complex system and as well good growth in my life.
